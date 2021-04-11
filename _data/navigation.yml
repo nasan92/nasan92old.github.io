@@ -6,9 +6,11 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-   - title: "Youtube"
-    url: /aba/
-    https://www.youtube.com/channel/UCD152s9TkCpwTFTTXzdjvCw
+  - title: "Youtube"
+    url: https://www.youtube.com/channel/UCD152s9TkCpwTFTTXzdjvCw
+   
+
+    
 
   #- title: "Publications"
    # url: /publications/
