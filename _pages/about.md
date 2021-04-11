@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Mein Name ist NASAN eh ja genau 
+Mein Name ist NASAN eh ja genau lala
 
 Work / Hobby
 ======
