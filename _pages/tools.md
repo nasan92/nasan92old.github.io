@@ -13,7 +13,7 @@ Here a list of some useful tools:
 Sysinternals
 ======
 
-Official link to the Sysinternals Website: (https://docs.microsoft.com/en-us/sysinternals/)
+Official link to the Sysinternals Website: [](https://docs.microsoft.com/en-us/sysinternals/)
 
 | Tool | Description |
 |--|--|
