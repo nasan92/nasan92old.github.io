@@ -9,10 +9,7 @@ tags:
   - GroupPolicy
 ---
 
-How to run a gpresult on a remote computer
-======
-
-# Use the Invoke-Command
+## Use the Invoke-Command
 You can simply use the Invoke Command to run the gpresult command:
   - Define the ComputerName after the Invoke-Command
   - In the ScriptBlock you can simply run your command
