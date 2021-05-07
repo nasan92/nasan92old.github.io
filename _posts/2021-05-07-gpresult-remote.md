@@ -43,12 +43,3 @@ Invoke-Command -ComputerName $server -ScriptBlock{
     gpresult /r /USER $args[0]
 }-ArgumentList $userSam
 {% endhighlight %}
-
-
-You can have many headings - interesting?
-======
-
-Aren't headings cool?
-------
-
-What happens here?
