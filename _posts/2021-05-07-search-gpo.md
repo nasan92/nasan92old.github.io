@@ -15,13 +15,13 @@ A way to search a specific setting over all GPOs
 You can generate a GPO Report over your Domain either in a XML or HTML file and then search through that file.
 
 To generate a XML use this command:  
-{% highlight powershell%}
+````powershell
 Get-GPOReport -All -Domain "domain.com" -Server "DC01" -ReportType XML -Path "C:\GPOReports\GPOReportsAll.xml"
-{% endhighlight %}
+````
 
 To generate a HTML file you can use this command:
-{% highlight powershell%}
+````powershell
 Get-GPOReport -All -Domain "domain.com" -Server "DC01" -ReportType HTML -Path "C:\GPOReports\GPOReportsAll.html"
-{% endhighlight %}
+````
 
 All GPO settings will be included in this Report file. So you can search through that file and find your settings.
