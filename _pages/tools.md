@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-Tool Downloader script: [](https://github.com/nasan92/tooldownloader/releases/download/v1.0/Tool-downloader-gui.ps1)
+Tool Downloader script: [Tool-Downloader](https://github.com/nasan92/tooldownloader/releases/download/v1.0/Tool-downloader-gui.ps1)
 
 Here a list of some useful tools:
 
 Sysinternals
 ======
 
-Official link to the Sysinternals Website: [](https://docs.microsoft.com/en-us/sysinternals/)
+Official link to the Sysinternals Website: [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
 
 | Tool | Description |
 |--|--|
