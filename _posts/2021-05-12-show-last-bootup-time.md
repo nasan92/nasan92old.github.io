@@ -12,12 +12,12 @@ Powershell: show the last bootuptime
 
 ## Use Get-CimInstance with the ClassName win32_operatingsystem
 You can query the ClassName win32_operatingsystem and select from there the computername **csname** and the last bootup time **lastbootuptime**
-````powershell
+{% highlight powershell%}
 Get-CimInstance -ComputerName 'DC01' -ClassName win32_operatingsystem | select csname, lastbootuptime
-````
+{% endhighlight %}
 ## Show last bootuptime for multiple computers
 If you want to do that for multiple computers you can for example do it wit a foreach loop:
-````powershell
+{% highlight powershell%}
 # First query the computer from which you want to have this information:
 $computer = Get-ADComputer -Filter * | where Name -Match dc
 # Now get the lastbootuptime for every computer in the computer array:
@@ -25,7 +25,7 @@ foreach($c in $computer){
     $computername = $c.DNSHostname
     Get-CimInstance -ComputerName $computername -ClassName win32_operatingsystem | select csname, lastbootuptime
 }
-````
+{% endhighlight %}
 ## Which other information can you get from this class?
 If you're curious what other information you can get from this class you can simply run a Get-Member which will list you all properties and methods:
 ````powershell
