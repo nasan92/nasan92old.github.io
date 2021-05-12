@@ -9,6 +9,7 @@ tags:
 
 
 
+
 ## Use Get-CimInstance with the ClassName win32_operatingsystem
 You can query the ClassName win32_operatingsystem and select from there the computername **csname** and the last bootup time **lastbootuptime**
 ````powershell
