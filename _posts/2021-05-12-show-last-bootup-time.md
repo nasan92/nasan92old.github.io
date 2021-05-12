@@ -7,7 +7,7 @@ tags:
   - Lastbootuptime
 ---
 
-
+Powershell: show the last bootuptime 
 
 
 ## Use Get-CimInstance with the ClassName win32_operatingsystem
