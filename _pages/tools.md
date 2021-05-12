@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Tool Downloader script: [Tool-Downloader](https://github.com/nasan92/tooldownloader/releases/download/v1.0/Tool-downloader-gui.ps1)
+Tool Downloader script: [https://github.com/nasan92/tooldownloader/releases/download/v1.0/Tool-downloader-gui.ps1](https://github.com/nasan92/tooldownloader/releases/download/v1.0/Tool-downloader-gui.ps1)
 
 Here a list of some useful tools:
 
