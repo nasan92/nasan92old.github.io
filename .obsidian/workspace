@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "fdbc28bda79752b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9e3b7c06b4a612",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Z_Templates/tags.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d56c04858f7274a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b005004007f5fcf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b15386a4af64b75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "584ab8654e90ac85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#powershell",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd542c9e9faf6b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "3854a71b21cfb3ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd176664a1cd0e2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Z_Templates/tags.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f19c498bc6ee3f53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ed9e3b7c06b4a612",
+  "lastOpenFiles": [
+    "Z_Templates/tags.md",
+    "_posts/Untitled.md",
+    "_posts/2199-01-01-future-post.md",
+    "_posts/2021-05-12-show-last-bootup-time.md",
+    "_posts/2021-05-07-gpresult-remote.md",
+    "Z_Templates/Untitled.md",
+    "_posts/2021-05-07-search-gpo.md"
+  ]
+}
