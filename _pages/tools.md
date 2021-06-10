@@ -21,7 +21,7 @@ Official link to the Sysinternals Website: [Sysinternals](https://docs.microsoft
 |--|--|
 | [CPU Stres](https://docs.microsoft.com/en-us/sysinternals/downloads/cpustres) |  **CPU Auslastung simulieren**  <br> Mit dem Sysinternals Tool CPU Stress kann eine beliebige CPU Auslastung simuliert werden. Es können mehrere Threads hinzugefügt werden und das Aktivitätslevel der Threads kann angepasst werden ![Editing a markdown file for a talk](/images/cpustres.png ) |
 | Testlimit | **RAM Auslastung simulieren** <br> Mit dem Sysinternals Tool testlimit kann eine beliebige RAM Auslastung simuliert werden. <br> Beispiel für 1024 MB: <br> `testlimit64.exe -d 1024 -c 1`|
-| [3 Governance](https://youtu.be/cIh_Nfl67T0) | [Azure Cost Optimization](https://youtu.be/RjuTQvGm1zQ) <br> [Azure RBAC Deep Dive](https://youtu.be/qFoHDTxkQII) <br> [Azure Update Management](https://youtu.be/8HPUKgKYNeY) <br> [Azure Resource Graph](https://youtu.be/gkOh4MjhxIs)|
+
 
 Windows Built in Tools
 ======
