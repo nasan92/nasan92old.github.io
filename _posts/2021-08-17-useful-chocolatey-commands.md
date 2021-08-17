@@ -10,34 +10,21 @@ Useful Chocolatey commands
 # Useful Chocolatey commands
 
 search a package:
-````powershell
-choco search appname
-````
+``choco search appname``
 
 Install a package
-````powershell
-choco install appname
-````
+``choco install appname``
 
 list all installed packages
-````powershell
-choco list -localonly
-````
+``choco list -localonly``
 
 list specific package
-````powershell
-choco list appname
-# example
-choco list bicep
-````
+``choco list appname ``
 
 upgrade specific package:
-````powershell
-choco upgrade appname
-````
+``choco upgrade appname``
 
 upgrade all packages
-````powershell
-choco upgrade all
-````
+``choco upgrade all``
+
 
