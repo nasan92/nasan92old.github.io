@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-08-17-useful-chocolatey-commands.md",
+            "file": "_posts/2021-08-23-Windows-Sandbox-Customization-DSC.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-08-17-useful-chocolatey-commands.md",
+                "file": "_posts/2021-08-23-Windows-Sandbox-Customization-DSC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "ed9e3b7c06b4a612",
   "lastOpenFiles": [
+    "_posts/2021-08-17-useful-chocolatey-commands 1.md",
     "_posts/2021-08-17-useful-chocolatey-commands.md",
     "_posts/2021-05-07-search-gpo.md",
     "_posts/2021-05-12-show-last-bootup-time.md",
@@ -107,7 +108,6 @@
     "CONTRIBUTING.md",
     "CHANGELOG.md",
     "_pages/markdown.md",
-    "_pages/non-menu-page.md",
-    "_pages/sitemap.md"
+    "_pages/non-menu-page.md"
   ]
 }
