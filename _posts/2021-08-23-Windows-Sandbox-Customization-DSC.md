@@ -7,9 +7,9 @@ tags:
   - DSC
   - Powershell
 ---
-Windows Sandbox Customization with DSC
+Demo Windows Sandbox Customization with Powershell DSC
 
-# Windows Sandbox Customization with DSC
+
 In this Demo I'm going to show you how you can use the Windows Sandbox and do some customization with Powershell DSC.
 
 ## Enable Windows Sandbox
