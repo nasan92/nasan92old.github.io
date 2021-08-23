@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Mein Name ist NASAN eh ja genau lala
+My name is Nathanael Santschi and on this blog I'm trying to publish some stuff which could maybe be helpful for someone. 
 
 Work / Hobby
 ======
