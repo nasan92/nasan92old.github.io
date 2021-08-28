@@ -16,7 +16,9 @@ redirect_from:
 ## General IT 
 [gpresult-remote](/posts/2021/05/gpresult-remote/)
  ---> 
+
 ## Recent posts
+
 ---
 
 <section class="archive-post-list">
