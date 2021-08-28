@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/about.md",
+            "file": "_pages/markdown.md",
             "mode": "source"
           }
         }
@@ -39,11 +39,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#powershell",
+                "query": "config.yml",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "ed9e3b7c06b4a612",
   "lastOpenFiles": [
-    "_pages/about.md",
-    "_posts/2021-08-17-useful-chocolatey-commands 1.md",
-    "_posts/2021-08-17-useful-chocolatey-commands.md",
-    "_posts/2021-05-07-search-gpo.md",
-    "_posts/2021-05-12-show-last-bootup-time.md",
-    "_posts/2021-05-25-ExchangeOnline-Mailadressen.md",
-    "README.md",
-    "CONTRIBUTING.md",
+    "_pages/markdown.md",
     "CHANGELOG.md",
-    "_pages/markdown.md"
+    "_posts/2021-08-23-Windows-Sandbox-Customization-DSC.md",
+    "_posts/2021-08-17-useful-chocolatey-commands.md",
+    "_posts/2021-05-12-show-last-bootup-time.md",
+    "_pages/tools.md",
+    "_pages/terms.md",
+    "_pages/publications.md",
+    "_pages/infos-startpage.md",
+    "_pages/home.md"
   ]
 }
