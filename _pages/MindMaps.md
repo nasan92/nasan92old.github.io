@@ -11,5 +11,7 @@ redirect_from:
 Mind maps:
 
 Eden Culture:
+[eden culture](/images/edenculture.png)
+image:
 ![eden culture](/images/edenculture.png)
 
