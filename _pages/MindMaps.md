@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-Mind maps:
+##Books
 
-Eden Culture:
-[eden culture](/images/edenculture.png)
-image:
-![eden culture](/images/edenculture.png)
+MindMap Übersicht vom Buch Eden Culture von Johannes Hartl: 
+[edenculture.png](/images/edenculture.png)  
+[Link zum Buch](https://www.amazon.de/Eden-Culture-%C3%96kologie-Herzens-Morgen/dp/3451033089)
+
+
 
