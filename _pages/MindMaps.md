@@ -13,6 +13,8 @@ redirect_from:
 MindMap Übersicht zum Buch [Eden Culture](https://www.amazon.de/Eden-Culture-%C3%96kologie-Herzens-Morgen/dp/3451033089) von Johannes Hartl: 
 [edenculture.png](/images/edenculture.png)  
 
+## IT 
 
-
+PowerShellMOdules
+[Mind Map Powershell Modules](/images/PowerShellModules.png)  
 
