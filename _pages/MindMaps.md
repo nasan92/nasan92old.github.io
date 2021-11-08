@@ -16,6 +16,6 @@ MindMap Übersicht zum Buch [Eden Culture](https://www.amazon.de/Eden-Culture-%C
 
 ## IT 
 
-PowerShellMOdules
+PowerShellModules
 [Mind Map Powershell Modules](/images/PowerShellModules.png)  
 ![Mind Map Powershell Modules](/images/PowerShellModules.png)  
