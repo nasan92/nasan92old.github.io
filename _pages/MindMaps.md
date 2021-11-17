@@ -11,8 +11,9 @@ redirect_from:
 ## Books
 
 MindMap Übersicht zum Buch [Eden Culture](https://www.amazon.de/Eden-Culture-%C3%96kologie-Herzens-Morgen/dp/3451033089) von Johannes Hartl: 
-[edenculture.png](/images/edenculture.png)  
-![edenculture.png](/images/edenculture.png)  
+<a href="https://nasan.ch/images/edenculture.png">
+         <img alt="DeepWork" src="/images/edenculture.png">
+      </a>
 
 MindMap Overview - DeepWork 
 [DeepWork.png](/images/DeepWork.png)  
