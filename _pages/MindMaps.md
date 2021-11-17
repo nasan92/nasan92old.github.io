@@ -15,8 +15,8 @@ MindMap Übersicht zum Buch [Eden Culture](https://www.amazon.de/Eden-Culture-%C
 ![edenculture.png](/images/edenculture.png)  
 
 MindMap Overview - DeepWork 
-[deepwork.png](/images/deepwork.png)  
-![deepwork.png](/images/deepwork.png)  
+[DeepWork.png](/images/DeepWork.png)  
+![DeepWork.png](/images/DeepWork.png)  
 
 ## IT 
 
