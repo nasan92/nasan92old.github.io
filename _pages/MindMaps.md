@@ -17,12 +17,12 @@ MindMap Overview - [DeepWork](https://www.amazon.de/Deep-Work-Focused-Success-Di
 
 MindMap Übersicht zum Buch [Eden Culture](https://www.amazon.de/Eden-Culture-%C3%96kologie-Herzens-Morgen/dp/3451033089) von Johannes Hartl: 
 <a href="https://nasan.ch/images/edenculture.png">
-         <img alt="DeepWork" src="/images/edenculture.png">
+         <img alt="edenculture" src="/images/edenculture.png">
       </a>
 
 ## IT 
 
 PowerShellModules from the book [Building Powershell Modules](https://leanpub.com/building-powershell-modules) - Brandon Olin
 <a href="https://nasan.ch/images/PowerShellModules.png">
-         <img alt="DeepWork" src="/images/PowerShellModules.png">
+         <img alt="PowerShellModules" src="/images/PowerShellModules.png">
       </a>
