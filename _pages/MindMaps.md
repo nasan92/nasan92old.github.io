@@ -18,6 +18,11 @@ MindMap Overview - DeepWork
 [DeepWork.png](/images/DeepWork.png)  
 ![DeepWork.png](/images/DeepWork.png)  
 
+<a href="https://nasan.ch/images/DeepWork.png">
+         <img alt="Qries" src="/images/DeepWork.png"
+         width=150" height="70">
+      </a>
+
 ## IT 
 
 PowerShellModules
