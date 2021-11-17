@@ -21,8 +21,7 @@ MindMap Overview - DeepWork
  <body>
       The following image works as a link:<br>
 <a href="https://nasan.ch/images/DeepWork.png">
-         <img alt="Qries" src="/images/DeepWork.png"
-         width=150" height="70">
+         <img alt="DeepWork" src="/images/DeepWork.png" width="150" height="70">
       </a>
   </body>
 ## IT 
