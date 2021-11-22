@@ -24,6 +24,5 @@ MindMap Übersicht zum Buch [Eden Culture](https://www.amazon.de/Eden-Culture-%C
 
 PowerShellModules from the book [Building Powershell Modules](https://leanpub.com/building-powershell-modules) - Brandon Olin
 <a href="https://nasan.ch/images/PowerShellModules.png">
-         target="_blank"
          <img alt="PowerShellModules.png" src="/images/PowerShellModules.png">
       </a>
