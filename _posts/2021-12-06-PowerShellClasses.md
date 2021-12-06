@@ -22,4 +22,4 @@ It should help to get a better overview over the topic.
 To learn more about classes follow those links:
 
 [About_Classes](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_classes?view=powershell-7.2#inheritance-in-powershell-classes)
-[PowerShell Classes - Getting Started][https://adamtheautomator.com/powershell-classes/]
+[PowerShell Classes - Getting Started](https://adamtheautomator.com/powershell-classes/)
