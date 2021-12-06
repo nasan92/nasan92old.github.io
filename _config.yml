@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  #avatar           : "avatar.png"
+  avatar           : "profile.png"
   name             : "Nathanael Santschi"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
