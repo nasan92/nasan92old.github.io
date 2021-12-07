@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 ## IT 
 
+test links
+<a href="https://nasan.ch/images/testlinks.drawio.svg">
+         <img alt="testlinks.drawio.svg" src="/images/testlinks.drawio.svg">
+      </a>
+
 PowerShellModules from the book [Building Powershell Modules](https://leanpub.com/building-powershell-modules) - Brandon Olin
 <a href="https://nasan.ch/images/PowerShellModules.png">
          <img alt="PowerShellModules.png" src="/images/PowerShellModules.png">
