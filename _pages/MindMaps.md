@@ -24,6 +24,11 @@ Powershell Classes MindMap - more infos: [About_Classes](https://docs.microsoft.
 <a href="https://nasan.ch/images/PowerShellClasses.png">
          <img alt="PowerShellClasses.png" src="/images/PowerShellClasses.png">
       </a>
+
+Legacy GPO MindMap Overview - nice blog concerning GPOs: [GPO From zero to hero](https://jm2k69.github.io/2019/11/GPO-from-zero-to-hero.html)
+<a href="https://nasan.ch/images/gpomindmap.png">
+      <img alt="gpomindmap.png" src="/images/gpomindmap.png">
+   </a>
 ## Books
 
 MindMap Overview - [DeepWork](https://www.amazon.de/Deep-Work-Focused-Success-Distracted/dp/0349411905) - Carl Newport
