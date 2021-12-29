@@ -14,10 +14,10 @@ redirect_from:
 <a href="https://nasan.ch/images/testlinks.drawio.svg">
          <img alt="testlinks.drawio.svg" src="/images/testlinks.drawio.svg">
       </a> -->
-Hybrid Identity Azure AD - AD Connect - MindMap [Microsoft Docs - Hybrid Identity](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/) 
+<!-- Hybrid Identity Azure AD - AD Connect - MindMap [Microsoft Docs - Hybrid Identity](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/) 
 <a href="https://nasan.ch/images/hybrididentity-AzureAD-Mindmap.png">
          <img alt="hybrididentity-AzureAD-Mindmap.png" src="/images/hybrididentity-AzureAD-Mindmap.png">
-      </a>
+      </a> -->
 
 PowerShellModules from the book [Building Powershell Modules](https://leanpub.com/building-powershell-modules) - Brandon Olin
 <a href="https://nasan.ch/images/PowerShellModules.png">
