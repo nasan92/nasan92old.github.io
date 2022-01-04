@@ -146,8 +146,11 @@ exclude:
   - node_modules
   - package.json
   - tmp
-  - vendor
   - vendor/bundle
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 keep_files:
   - .git
   - .svn
