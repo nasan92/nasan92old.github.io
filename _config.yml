@@ -132,6 +132,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README
